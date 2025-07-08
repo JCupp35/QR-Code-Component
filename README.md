@@ -18,7 +18,7 @@ In this project I created a QR code card component using HTML and CSS. I practic
 
 ### Screenshot
 
-![](./images/127.0.0.1_5500_index.png)
+![Screenshot of QR Code Component](./images/127.0.0.1_5500_index.png)
 
 
 ### Built with
@@ -30,7 +30,7 @@ In this project I created a QR code card component using HTML and CSS. I practic
 
 ### What I learned
 
-I reinforced my skills in writing semantic HTML and practiced using the CSS Flexbox layout. I deepened my understanding of the CSS Flexbox by using properties such as justify-content and align-items for even spacing and alignment within the card component. I gained a better understanding of using semantic HTML for accesibility by using elements like <main> and <h1> to structure the content logically. I learned the importance of setting default margins and paddings and using the border-box property to have more control of the spacing and following the design guidelines more precisely. I learned to translate Figma design specifications into code by replicating typography, colors, and spacing. For example, I used the Outfit font with specific weights and HSL colors to match the design’s visual style.
+I reinforced my skills in writing semantic HTML and practiced using the CSS Flexbox layout. I deepened my understanding of the CSS Flexbox by using properties such as justify-content and align-items for even spacing and alignment within the card component. I gained a better understanding of using semantic HTML for accesibility by using elements like `<main> `and `<h1>` to structure the content logically. I learned the importance of setting default margins and paddings and using the border-box property to have more control of the spacing and following the design guidelines more precisely. I learned to translate Figma design specifications into code by replicating typography, colors, and spacing. For example, I used the Outfit font with specific weights and HSL colors to match the design’s visual style.
 
 
 ### Continued development
