@@ -16,6 +16,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ## Overview
 In this project I created a QR code card component using HTML and CSS. I practiced using semantic HTML and using a flexbox layout in CSS, using a figma design file for reference to simulate a front-end development workflow. This project required attention to detail, following design specifications, and using modern web development practices. The component includes an image of a QR code, a bold text heading, and descriptive text that follows the required typography, colors and spacing. As part of my portfolio to demonstrate front-end development skills, this project showcases my abilities to translate design files into functional webpages.
 
+- Live Site URL: [Click Here](https://jcupp35.github.io/QR-Code-Component/)
+
 ### Screenshot
 
 ![Screenshot of QR Code Component](./images/screenshot.png)
