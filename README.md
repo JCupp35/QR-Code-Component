@@ -45,5 +45,5 @@ I will continue expanding my skills using the CSS Flexbox layout as well as the 
 
 ## Author
 
-- Website - [Justin Cupp]((https://github.com/JCupp35)
+- Website - [Justin Cupp](https://github.com/JCupp35)
 - Frontend Mentor - [@JCupp35](https://www.frontendmentor.io/profile/jcupp35)
