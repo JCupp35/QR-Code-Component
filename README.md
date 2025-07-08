@@ -18,7 +18,7 @@ In this project I created a QR code card component using HTML and CSS. I practic
 
 ### Screenshot
 
-![Screenshot of QR Code Component](./images/127.0.0.1_5500_index.png)
+![Screenshot of QR Code Component](./images/screenshot.png)
 
 
 ### Built with
